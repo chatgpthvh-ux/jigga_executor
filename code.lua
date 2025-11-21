@@ -144,7 +144,7 @@ function run(Player)
 						["Instance"] = "Mesh",
 						["MeshId"] = "rbxassetid://6870651596",
 						["Function"] = {},
-						["Transparency"] = 1,
+						["Transparency"] = 0,
 						["Name"] = "Left Leg UV",
 						["Parent"] = {
 							[1] = "Left Leg",
@@ -189,7 +189,7 @@ function run(Player)
 						["Instance"] = "Mesh",
 						["MeshId"] = "rbxassetid://6870651384",
 						["Function"] = {},
-						["Transparency"] = 1,
+						["Transparency"] = 0,
 						["Name"] = "Right Leg UV",
 						["Parent"] = {
 							[1] = "Right Leg",
@@ -235,7 +235,7 @@ function run(Player)
 						["MeshId"] = "rbxassetid://13755434958",
 						["Color"] = "Base",
 						["Function"] = {},
-						["Transparency"] = 1,
+						["Transparency"] = 0,
 						["Name"] = "TorsoMesh",
 						["Parent"] = {
 							[1] = "Torso"
@@ -771,7 +771,7 @@ function run(Player)
 						["Instance"] = "Part",
 						["Color"] = "Base",
 						["Function"] = {"CubeUVPhysics"},
-						["Transparency"] = 1,
+						["Transparency"] = 0,
 						["Name"] = "CubesRoot",
 						["Parent"] = {
 							[1] = "Torso"
@@ -816,7 +816,7 @@ function run(Player)
 						["MeshId"] = "rbxassetid://7606070501",
 						["Color"] = "Base",
 						["Function"] = {},
-						["Transparency"] = 1,
+						["Transparency"] = 0,
 						["Name"] = "CubeTexture",
 						["Parent"] = {
 							[1] = "Torso",
@@ -862,7 +862,7 @@ function run(Player)
 						["MeshId"] = "rbxassetid://7606070501",
 						["Color"] = "Base",
 						["Function"] = {},
-						["Transparency"] = 1,
+						["Transparency"] = 0,
 						["Name"] = "CubePantsUV",
 						["Parent"] = {
 							[1] = "Torso",
@@ -1466,7 +1466,7 @@ function run(Player)
 						["MeshId"] = "rbxassetid://9067214532",
 						["Color"] = "Base",
 						["Function"] = {},
-						["Transparency"] = 1,
+						["Transparency"] = 0,
 						["Name"] = "PantsUVRight",
 						["Parent"] = {
 							[1] = "Torso",
@@ -1485,7 +1485,7 @@ function run(Player)
 						["MeshId"] = "rbxassetid://9067214532",
 						["Color"] = "Base",
 						["Function"] = {},
-						["Transparency"] = 1,
+						["Transparency"] = 0,
 						["Name"] = "PantsUVLeft",
 						["Parent"] = {
 							[1] = "Torso",
@@ -1508,7 +1508,7 @@ function run(Player)
 							[2] = "PantsUVRight"
 						},
 						["Function"] = {},
-						["Transparency"] = 1,
+						["Transparency"] = 0,
 						["Name"] = "Right Plain Skin",
 						["Extra"] = {},
 						["Joint"] = {
@@ -1606,7 +1606,7 @@ function run(Player)
 							[4] = "Core"
 						},
 						["Function"] = {},
-						["Transparency"] = 1,
+						["Transparency"] = 0,
 						["Name"] = "PantsUV",
 						["Extra"] = {},
 						["Joint"] = {
@@ -1653,7 +1653,7 @@ function run(Player)
 							[3] = "JointBase"
 						},
 						["Function"] = {},
-						["Transparency"] = 1,
+						["Transparency"] = 0,
 						["Name"] = "TextPart",
 						["Mesh"] = {
 							["Scale"] = {
@@ -1718,7 +1718,7 @@ function run(Player)
 							[2] = "JointGroin"
 						},
 						["Function"] = {},
-						["Transparency"] = 1,
+						["Transparency"] = 0,
 						["Name"] = "JointBase",
 						["Mesh"] = {
 							["Scale"] = {
@@ -1775,7 +1775,7 @@ function run(Player)
 							[2] = "PantsUVLeft"
 						},
 						["Function"] = {},
-						["Transparency"] = 1,
+						["Transparency"] = 0,
 						["Name"] = "Left Plain Skin",
 						["Extra"] = {},
 						["Joint"] = {
@@ -1821,7 +1821,7 @@ function run(Player)
 							[1] = "Torso"
 						},
 						["Function"] = {},
-						["Transparency"] = 1,
+						["Transparency"] = 0,
 						["Name"] = "JointGroin",
 						["Extra"] = {},
 						["Joint"] = {
