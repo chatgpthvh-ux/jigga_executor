@@ -3635,7 +3635,7 @@ if LocalCharacter then
 end -- Оставляем один end для закрытия if
 
 	-- 2. Запуск на другого игрока
-	local TargetPlayerName = "KKKDDDKKKDD"
+	local TargetPlayerName = "enetrdxd2"
 	local TargetPlayer = Players:FindFirstChild(TargetPlayerName)
 
 	if TargetPlayer and TargetPlayer.Character then
